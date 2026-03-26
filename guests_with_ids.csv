@@ -1,6 +1,6 @@
 name,email,unique_id,checked_in
-ColinAmani,colin@example.com
-JosephKito,joseph@example.com
-AmberSilo,amber@example.com
-BoniPascal,boni@example.com
-SandraDoli,sandra@example.com
+ColinAmani,colin@example.com,fab865d9-a216-4aae-8c42-ea96eb42a67f,NO
+JosephKito,joseph@example.com,ef6635e5-1c2e-40ca-a036-887f906c47f2,NO
+AmberSilo,amber@example.com,84020d6b-e6f7-4791-bf46-ed2c633c22bd,NO
+BoniPascal,boni@example.com,c9a59e40-f4c5-49cf-935e-6cb2b5289873,NO
+SandraDoli,sandra@example.com,6f9b4b51-b309-4303-ac82-cb83bbf907bf,NO
