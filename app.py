@@ -11,7 +11,7 @@ app = Flask(__name__)
 # DATABASE CONNECTION
 # -----------------------------
 # Get Render DATABASE_URL from environment
-DATABASE_URL = os.environ.get("postgresql://eventone_j2ic_user:YKHidlakj53GodjYcFh5cuOJE11p2oo3@dpg-d72mcl2dbo4c73b95kt0-a.oregon-postgres.render.com/eventone_j2ic")
+DATABASE_URL = os.environ.get("DATABASE_URL")
 
 def get_conn():
     url=urlparse.urlparse(DATABASE_URL)
